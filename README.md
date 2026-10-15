@@ -1,2 +1,40 @@
-# e-commerce-ux
-• A minimalist, highly performant front-end e-commerce interface engineered with semantic HTML5, modern responsive CSS, and pure JavaScript optimized specifically for clean visual layouts and smooth user experiences.
+# E-Com UX
+
+A sleek, responsive, and highly optimized **E-Commerce Web Application** designed with a strong focus on seamless user experience (UX) and clean visual architecture.
+
+## 🚀 Features
+- **Modern UI/UX:** Clean, intuitive layout crafted using advanced CSS methodologies.
+- **Dynamic Interactions:** Responsive scripts handling client-side behavior efficiently.
+- **Performant & Lightweight:** Built using core web tech (HTML5, CSS3, JavaScript) with zero heavy framework overhead.
+
+## 📂 Repository Structure
+```bash
+ecom/
+├── index.html   # Main application interface and structural layout
+├── script.js    # Client-side interactivity and state management
+└── style.css    # Typography, theme variables, and responsive layouts
+```
+
+## 🛠️ Getting Started
+
+### Prerequisites
+You only need a modern web browser to run this project.
+
+### Installation & Running Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ecom-ux.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd ecom-ux/ecom
+   ```
+3. Open `index.html` directly in your browser or launch it using a local development server (e.g., Live Server in VS Code).
+
+## 🎨 Technologies Used
+- **HTML5** - Semantic markup structure
+- **CSS3** - Custom properties, Flexbox/Grid layouts
+- **JavaScript (ES6+)** - Dynamic DOM manipulation
+
+## 📄 License
+This project is licensed under the MIT License.
