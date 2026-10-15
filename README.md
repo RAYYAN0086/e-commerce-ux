@@ -1,4 +1,4 @@
-# E-Com UX
+# E-Commerce UX
 
 A sleek, responsive, and highly optimized **E-Commerce Web Application** designed with a strong focus on seamless user experience (UX) and clean visual architecture.
 
